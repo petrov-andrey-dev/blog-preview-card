@@ -1,0 +1,49 @@
+@import url('./common/variables.css');
+@import url('./common/normalize.css');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+
+main {
+    background-color: var(--light-gray);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--white);
+    width: 320px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    padding: 16px;
+}
+
+img {
+    border-radius: 20px;
+    margin-bottom: 24px;
+}
+
+h1 {
+    margin: 0 0 24px 0;
+    padding: 0 32px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--dark-blue);
+}
+
+p {
+    margin: 0 0 40px 0;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    color: var(--grayish-blue);
+    padding: 0 32px;
+}
+
+
