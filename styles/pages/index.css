@@ -1,0 +1,37 @@
+@import url(../common/normalize.css);
+@import url(../common/variables.css);
+/* @import url(../common/fonts.css); */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+@import url(../../blocks/main/main.css);
+@import url(../../blocks/card/card.css);
+@import url(../../blocks/card/__image/card__image.css);
+@import url(../../blocks/card/__content/card__content.css);
+@import url(../../blocks/card/__label/card__label.css);
+@import url(../../blocks/card/__date/card__date.css);
+@import url(../../blocks/card/__title/card__title.css);
+@import url(../../blocks/card/__paragraph/card__paragraph.css);
+@import url(../../blocks/card/__author-container/card__author-container.css);
+@import url(../../blocks/card/__author-avatar/card__author-avatar.css);
+@import url(../../blocks/card/__athor-name/card__author-name.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

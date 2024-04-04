@@ -1,0 +1,19 @@
+.card__title {
+    margin: 0;
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 1.5;
+    color: var(--black);
+    transition: color 0.2s linear;
+}
+
+.card__title:hover {
+    color: var(--yellow);
+}
+
+@media screen and (max-width: 420px) {
+    .card__title {
+        font-size: 20px;
+    }
+}

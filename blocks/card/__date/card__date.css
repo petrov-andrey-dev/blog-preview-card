@@ -1,0 +1,12 @@
+.card__date {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: var(--black);
+}
+
+@media screen and (max-width: 420px) {
+    .card__date {
+        font-size: 12px;
+    }
+}

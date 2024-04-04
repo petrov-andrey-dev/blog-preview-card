@@ -1,10 +1,7 @@
 :root {
     /* Colors */
+    --yellow: hsl(47, 88%, 63%);
     --white: hsl(0, 0%, 100%);
-    --light-gray: hsl(212, 45%, 89%);
-    --grayish-blue: hsl(220, 15%, 55%);
-    --dark-blue: hsl(218, 44%, 22%)
-    /* Typography */
-    
-
+    --gray: hsl(0, 0%, 50%);
+    --black: hsl(0, 0%, 7%);
 }
